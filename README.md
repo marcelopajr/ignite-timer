@@ -19,9 +19,10 @@ Pomodoro timer developed during Rocketseat's Ignite using classic <b>React Page 
 ## 🔧 Technologies
 
 - [React.js](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 - [React Hook Form](https://www.react-hook-form.com/)
 - [Zod](https://zod.dev/)
-- [Styled Components](https://styled-components.com/)
 - [Phosphor Icons](https://phosphoricons.com/)
 - [Date-fns](https://date-fns.org/)
 
