@@ -14,7 +14,7 @@
 
 ## 💻 Project
 
-Pomodoro timer developed during Rocketseat's Ignite using classic <b>React Page Routing</b>, <b>React Hook Form</b>, <b>Themes</b> with Styled Components and state management with <b>Context API</b> and <b>Reducer</b> hooks.
+Pomodoro timer developed during Rocketseat's Ignite using classic <b>React Page Routing</b>, <b>React Hook Form</b>, <b>Themes</b> with <b>Styled Components</b> and state management with <b>Context API</b> and <b>Reducer</b> hooks.
 
 ## 🔧 Technologies
 
